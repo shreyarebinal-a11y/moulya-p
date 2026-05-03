@@ -1,0 +1,13 @@
+{
+  "name": "GovNotice Simplifier",
+  "description": "An AI-powered tool to help rural and non-technical users understand complex government notices through simplification, translation, and OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered text simplification",
+    "Multilingual support (Kannada, Hindi, Telugu)",
+    "Image-to-text OCR",
+    "Text-to-Speech"
+  ]
+}
